@@ -6,7 +6,7 @@
 
 ![image](https://github.com/Daming-TF/Smoothing-Tool/blob/master/output/demo-SavGolFilter.jpg)
 
-####运行演示
+**运行演示**
 ```angular2html
 cd scripts
 python demo_savitzky_golay.py
@@ -16,7 +16,7 @@ python demo_savitzky_golay.py
 
 ![image](https://github.com/Daming-TF/Smoothing-Tool/blob/master/output/demo-InterpFilter.jpg)
 
-####运行演示
+**运行演示**
 ```angular2html
 cd scripts
 python demo_interpolate.py
@@ -26,7 +26,7 @@ python demo_interpolate.py
 
 ![image](https://github.com/Daming-TF/Smoothing-Tool/blob/master/output/demo-ConvolveFilter.jpg)
 
-####运行演示
+**运行演示**
 ```angular2html
 cd scripts
 python demo_convolve.py
